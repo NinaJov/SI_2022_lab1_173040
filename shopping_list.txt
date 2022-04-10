@@ -1,5 +1,5 @@
-lipstick
-eye shadow
-foundation
-brow pencil
-blush
+lipstick x 3
+eye shadow x 4
+foundation x 1
+brow pencil x 2
+blush x 1
