@@ -3,3 +3,5 @@ eye shadow x 3
 foundation x 1
 brow pencil x 2
 blush x 2
+eye lashes x 2
+highlighter x 1
